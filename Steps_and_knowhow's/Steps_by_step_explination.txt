@@ -1,6 +1,16 @@
 This text file will have every thing you'll need to know and understand about the total architecture of the project. Be it may the higher level overview or the in detail overview of the architecture. 
 
-I'll be giving references to some other text files as well that will be present in the same folder as this file is, to keep it more organised. 
+* Overview : 
+The tech stack that we'll be using in this project will be : 
+- sql database 
+- Azure cloud 
+- Azure Datafactory 
+- Azure Databricks 
+- Unity Catalog
+- Spark 
+- GitHub 
 
-Lets Start with the project- 
+So pretty much we'll be using everything that'll take you from a "I wonder why" rookie to "I know how to" mentality engineer. 
 
+(For beginners) 
+If you want to Know more about the theoretical part of tech stack used in this project then refer the word file with name ---> "TechStack.docx"
