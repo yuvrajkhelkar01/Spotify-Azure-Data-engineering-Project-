@@ -1,0 +1,6 @@
+This text file will have every thing you'll need to know and understand about the total architecture of the project. Be it may the higher level overview or the in detail overview of the architecture. 
+
+I'll be giving references to some other text files as well that will be present in the same folder as this file is, to keep it more organised. 
+
+Lets Start with the project- 
+
