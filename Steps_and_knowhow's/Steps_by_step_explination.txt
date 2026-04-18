@@ -13,4 +13,4 @@ The tech stack that we'll be using in this project will be :
 So pretty much we'll be using everything that'll take you from a "I wonder why" rookie to "I know how to" mentality engineer. 
 
 (For beginners) 
-If you want to Know more about the theoretical part of tech stack used in this project then refer the word file with name ---> "TechStack.docx"
+If you want to Know more about the theoretical part of tech stack used in this project then refer the word file with name ---> "TechStack.pdf"
