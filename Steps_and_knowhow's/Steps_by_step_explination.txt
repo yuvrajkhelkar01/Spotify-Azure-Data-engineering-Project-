@@ -14,6 +14,3 @@ So pretty much we'll be using everything that'll take you from a "I wonder why" 
 
 (For beginners) 
 If you want to Know more about the theoretical part of tech stack used in this project then refer the word file with name ---> "TechStack.pdf"
-
-
-added this 
