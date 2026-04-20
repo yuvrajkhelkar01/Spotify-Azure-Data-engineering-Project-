@@ -1,0 +1,9 @@
+{
+	"name": "yuvraj-azureproject",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "960cb89d-0bd2-4c97-8a3b-6292b8d14265",
+		"tenantId": "e8d75283-127e-47ac-95f1-eeb41ce11150"
+	}
+}
